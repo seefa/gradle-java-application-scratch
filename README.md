@@ -1,4 +1,4 @@
-## Building Java Projects with Gradle
+## Building Java Projects with Gradle plus Kotlin
 
 1-Make a *Pure* and *Empty* Java Project
 
